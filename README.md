@@ -1,6 +1,8 @@
-# Build your first Fullstack Dapp
+# Build your first Fullstack Dapp -- a NumberBox on Polygon Mumbai
 
 Welcome to the wonderful world of fullstack dapp development! Build and deploy your first dapp #onPolygon in under an hour while learning about developing with Hardhat, Solidity, and Alchemy.
+
+<img width="817" alt="Screen Shot 2022-08-18 at 9 21 51 AM" src="https://user-images.githubusercontent.com/91382964/185418791-0004cfe7-13c9-462d-ac8f-b4f8a743befe.png">
 
 #### Assumptions
 
@@ -75,7 +77,7 @@ Welcome to the wonderful world of fullstack dapp development! Build and deploy y
 
 # Frontend
 
-You can either use this styled frontend: https://github.com/oceans404/super-fast-dapp-frontend with the modifications noted in the README (recommended!)
+You can either use this styled frontend: https://github.com/oceans404/super-fast-dapp-frontend with the modifications noted in the README to update the frontend to read YOUR smart contract (recommended!)
 
 or bootstrap your own with the instructions below to learn about Rainbowkit and Reading/Writing transactions from a frontend
 
