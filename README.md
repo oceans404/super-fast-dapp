@@ -71,6 +71,14 @@ Welcome to the wonderful world of fullstack dapp development! Build and deploy y
 - `npx hardhat run scripts/deploy.js --network polygon_mumbai` LFG!!!! You just deployed your first smart contract to Polygon Mumbai!
 - read the contract deployment console log to know where the contract is deployed. Search for this on https://mumbai.polygonscan.com/
 
+-----
+
+# Frontend
+
+You can either use this styled frontend: https://github.com/oceans404/super-fast-dapp-frontend with the modifications noted in the README (recommended!)
+
+or bootstrap your own with the instructions below to learn about Rainbowkit and Reading/Writing transactions from a frontend
+
 
 ### Bootstrap the frontend
 
